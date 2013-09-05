@@ -1,4 +1,4 @@
-inf-1100-sdl-test-windows
-=========================
+inf-1100-sdl-test-macosx
+========================
 
-Test of Cygwin installation for students of inf-1100 fall 2013
+A simple test to check that SDL and compilers has been installed correctly on Mac OS X. For the students of INF-1100 fall 2013.
