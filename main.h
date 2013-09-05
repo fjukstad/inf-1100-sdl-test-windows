@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "SDL/SDL.h"
+#include "include/SDL.h"
 #include "unistd.h"
 
 SDL_Surface *screen;
